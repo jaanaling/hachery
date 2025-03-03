@@ -2,19 +2,14 @@ enum IconProvider {
   background(imageName: 'background.webp'),
   logo(imageName: 'logo.webp'),
   icon(imageName: 'icon.png'),
-  d1(imageName: 'd1.png'),
-  d2(imageName: 'd2.png'),
-  d3(imageName: 'd3.png'),
-  d4(imageName: 'd4.png'),
-  d5(imageName: 'd5.png'),
-  back(imageName: 'back.svg'),
-  stat(imageName: 'stat.svg'),
-  back1(imageName: 'back1.png'),
-  back2(imageName: 'back2.png'),
-  circle(imageName: 'circle.png'),
-  blue(imageName: 'blue.png'),
-  green(imageName: 'green.png'),
-  yellow(imageName: 'yellow.png'),
+  back(imageName: 'back.png'),
+  plus(imageName: 'plus.png'),
+  minus(imageName: 'minus.png'),
+  egg(imageName: 'egg.png'),
+  temp(imageName: 'temp.png'),
+  error(imageName: 'error.png'),
+  water(imageName: 'water.png'),
+
   unknown(imageName: '');
 
   const IconProvider({

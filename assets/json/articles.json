@@ -3,600 +3,600 @@
       "id": 1,
       "title": "An Introduction to Chicken Egg Incubation",
       "description": "Incubation is the process that allows a fertilized chicken egg to develop into a healthy chick over approximately 21 days. The right balance of temperature and humidity is crucial to ensure proper growth. Most modern incubators maintain consistent heat levels, typically around 99.5°F (37.5°C). Turning the eggs multiple times a day helps prevent the embryo from sticking to the shell membrane. Good air circulation in the incubator ensures sufficient oxygen exchange. Candling the eggs around day seven allows you to check for viability. Discarding any non-developing eggs reduces the risk of bacterial contamination. Cleanliness is essential to prevent diseases that can harm developing embryos. Proper record-keeping of temperature and humidity readings helps identify issues. With these basics in place, you can establish a solid foundation for successful hatching.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/1.png"
     },
     {
       "id": 2,
       "title": "Understanding Humidity in Egg Incubation",
       "description": "Humidity plays a vital role in maintaining the right moisture content inside the shell. Eggs lose water throughout the incubation process, so proper humidity levels help control the rate of moisture loss. Too much humidity can prevent adequate moisture evaporation, leading to swollen or malpositioned chicks. Conversely, low humidity levels might result in overly dry eggs and compromised development. An average range of 45–50% humidity during the first 18 days is commonly recommended. Increasing humidity to around 65–70% during the final days supports the hatching process. Monitoring air sac size through candling can help gauge if humidity levels are appropriate. Adjusting vents or adding water trays in the incubator helps fine-tune moisture levels. Digital hygrometers are often more accurate than analog models. Consistent humidity management significantly improves your hatch rate.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/2.png"
     },
     {
       "id": 3,
       "title": "Selecting Quality Eggs for Incubation",
       "description": "Starting with healthy, fertile eggs is the foundation of any successful incubation project. Ideally, collect eggs from well-nourished hens and robust roosters to ensure strong embryos. Avoid using eggs that are cracked, misshapen, or excessively dirty since these can introduce bacteria. If you need to store eggs before incubation, keep them in a cool, stable environment at around 55–60°F (13–15.5°C). Turn stored eggs once or twice daily to maintain embryo viability. Always bring eggs to room temperature before placing them in the incubator to prevent condensation. The size of the egg can influence chick size, but medium to large eggs typically yield consistent results. Candling stored eggs can help identify any internal defects before incubation begins. Discarding poor-quality eggs early reduces overall risk of contamination. This careful selection process paves the way for higher hatch rates.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/3.png"
     },
     {
       "id": 4,
       "title": "Importance of Temperature Stability",
       "description": "Temperature consistency is often the single most crucial factor in egg incubation. Fluctuations in temperature can slow embryo growth or even cause it to stop altogether. Most chicken eggs require a steady 99.5°F (37.5°C) in a forced-air incubator. Still-air incubators might be set slightly higher, around 101°F (38.3°C), to compensate for uneven heat distribution. Using a calibrated thermometer helps ensure the accuracy of your incubator’s built-in thermostat. Checking temperature readings at different points in the incubator can reveal hot or cold spots. Prolonged temperature dips can lead to late or weak hatches, while overheating may cause early deaths. Automated incubators with digital controllers often maintain more stable conditions. Supplementing with insulation or positioning the incubator away from drafts helps minimize temperature swings. Steady, optimal heat lays the groundwork for strong embryo development.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/4.png"
     },
     {
       "id": 5,
       "title": "Turning Eggs: Why and How Often",
       "description": "Turning eggs is essential to keep the developing embryo from adhering to the inner shell membrane. It also promotes more even distribution of heat and nutrients around the embryo. Manual turning typically involves rotating each egg at least three times a day, though five times is often recommended. Automated incubators can handle this task, reducing the chances of human error. Marking each egg with an X on one side and an O on the other can help track turning progress. Sudden movements should be avoided, as they may damage delicate embryonic structures. Turning is usually stopped on day 18 to allow the chicks to position themselves for hatching. Consistent turning schedules lead to better embryo development and improved hatch outcomes. Keeping detailed records of turning times can help refine your routine. Proper turning is a simple yet crucial step to achieve healthy chicks.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/5.png"
     },
     {
       "id": 6,
       "title": "Using a Forced-Air vs. Still-Air Incubator",
       "description": "There are two primary types of incubators: forced-air and still-air. Forced-air incubators use a fan to circulate warm air, leading to more consistent temperatures throughout the unit. Still-air incubators, on the other hand, rely on heat rising and typically require slightly higher temperatures at egg level. When using a forced-air model, maintaining 99.5°F (37.5°C) is generally recommended, while still-air setups may target around 101°F (38.3°C). Humidity management can also differ due to airflow differences. Many modern devices include digital controls that simplify these adjustments. Regardless of the type, always confirm readings with independent thermometers and hygrometers. Each style has its pros and cons, but both can yield excellent results when properly managed. Choosing the right incubator often depends on your budget, hatch goals, and available space.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/6.png"
     },
     {
       "id": 7,
       "title": "Preparing the Incubator for Operation",
       "description": "Before placing any eggs, thorough cleaning and disinfection of the incubator is crucial. Remove dust, debris, and any residual matter from previous hatches to minimize bacterial load. A mixture of warm water and mild disinfectant is typically sufficient for cleaning. Allow the incubator to dry completely before reassembly. Test-run the device for at least 24 hours to stabilize temperature and humidity. Observe how the unit handles adjustments during this trial period. If you notice any irregularities, correct them before introducing the eggs. Position the incubator away from windows, direct sunlight, or heat vents to prevent temperature fluctuations. Double-check fans, turners, and sensors to ensure full functionality. A well-prepped incubator provides the ideal environment for the delicate early stages of embryo development.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/7.png"
     },
     {
       "id": 8,
       "title": "Candling Eggs: Monitoring Development",
       "description": "Candling is the process of shining a bright light through the shell to view internal structures. It allows you to check if the embryo is developing normally and to identify infertile or dead eggs. Many incubators have built-in candling lights, but a simple handheld candler or flashlight can also work. Perform the first candling around day seven, looking for visible veins and a developing embryo. A second candling around day 14 helps track growth progress. Clear, undeveloped eggs should be removed to reduce the risk of bacterial contamination. By day 18, most of the egg should appear dark due to the growing chick. Candling is an excellent way to gain insight into the health of your clutch. Proper candling technique improves hatch success by allowing timely removal of non-viable eggs.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/8.png"
     },
     {
       "id": 9,
       "title": "Optimal Egg Handling and Storage",
       "description": "Correct handling and storage of eggs before incubation can dramatically impact hatch rates. Avoid exposing eggs to extreme temperature or humidity levels during storage. If collecting multiple batches, label them by date to keep track of age. Storing eggs with the blunt end up helps preserve the natural air cell. Gently turning stored eggs daily helps maintain viable embryonic orientation. Keep storage duration short, ideally no longer than seven days, to ensure maximum hatchability. Never wash eggs unless they are extremely soiled, as removing the bloom layer may increase bacterial penetration. When ready to incubate, allow the eggs to warm to room temperature slowly. Sudden temperature changes can lead to condensation and promote bacterial growth. Proper egg handling sets the stage for a successful incubation cycle.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/9.png"
     },
     {
       "id": 10,
       "title": "Identifying and Troubleshooting Common Incubation Problems",
       "description": "Even with meticulous care, incubation challenges can arise. Common issues include temperature fluctuations, insufficient humidity, and poor turning schedules. Sudden power outages or equipment malfunction can severely disrupt embryonic development. Embryos that develop but die before hatching often indicate a humidity or temperature problem. Sticky chicks at hatching time can be a sign of excessive humidity. Conversely, chicks that fail to emerge or appear shrink-wrapped often faced low humidity. Sometimes, bacterial contamination from dirty equipment leads to an unpleasant odor or discolored egg contents. Detailed logs of daily conditions can help pinpoint the root causes. Regularly inspecting the incubator and eggs for abnormalities allows for quick intervention. Identifying and correcting issues early greatly improves the chance of a successful hatch.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/10.png"
     },
     {
       "id": 11,
       "title": "The Role of Ventilation in Egg Incubation",
       "description": "Adequate ventilation ensures a proper exchange of oxygen and carbon dioxide inside the incubator. Embryos require oxygen for metabolism, and carbon dioxide must be released to avoid buildup. Many modern incubators have adjustable vents that can be opened gradually as the embryos grow. During the early stages, slight vent openings may suffice, but later in incubation, chicks need increased oxygen. Overly tight enclosures can lead to weak or non-viable embryos. Too much ventilation, however, can affect temperature and humidity consistency. Monitoring carbon dioxide levels is particularly important in high-density settings. Periodic vent adjustments help maintain an ideal gas exchange balance. Good ventilation practices ensure stronger chicks and higher hatch rates.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/11.png"
     },
     {
       "id": 12,
       "title": "Understanding Egg Weight Loss During Incubation",
       "description": "Eggs naturally lose weight over the 21-day incubation period as water evaporates through the shell. Monitoring weight loss is a way to gauge whether humidity levels are appropriate. Ideally, eggs should lose around 12–14% of their initial weight by day 18. Excessive weight loss may indicate insufficient humidity, while minimal weight loss can point to excessive moisture levels. Accurate scales and consistent record-keeping are essential for proper tracking. Some hatchers weigh a small representative sample of eggs rather than the entire batch. Adjusting humidity by adding or removing water in trays can help correct any discrepancies. By day 18, the rate of weight loss slows as the chick prepares to hatch. Understanding this process helps fine-tune incubation conditions for a successful outcome. Regular measurement also encourages attention to detail and early problem-solving.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/12.png"
     },
     {
       "id": 13,
       "title": "Setting Up a Biosecure Incubation Area",
       "description": "Biosecurity measures reduce the spread of pathogens that can harm developing embryos. Start by choosing a clean, dedicated area for the incubator, away from high-traffic zones. Disinfect the space thoroughly and keep poultry, pets, or other animals from entering. Minimize foot traffic in and out of the area to reduce contamination. Washing hands and wearing disposable gloves or clean clothing can further protect the eggs. Between hatches, thoroughly sanitize the incubator and surrounding surfaces. Consider using footbaths or changing footwear when entering the incubation room for large-scale operations. Store eggs and incubation supplies in sealed containers to prevent rodent or insect infestation. Dispose of any waste materials, such as shells and membranes, in sealed bags. Maintaining a biosecure environment is a key step toward ensuring healthy hatches.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/13.png"
     },
     {
       "id": 14,
       "title": "How to Candle Eggs at Different Stages",
       "description": "Candling techniques may vary slightly over the course of incubation. In the early stages (day 5–7), you will look for small, spider-like veins spreading from the yolk. By day 10, you should see a more defined embryo with a prominent dark eye. Movement may be visible if the embryo is active. Around day 14, the egg’s interior darkens considerably, leaving the air cell more distinct. Late-stage candling near day 18 focuses on ensuring the chick occupies most of the shell, with a clear air cell at the blunt end. Using a high-intensity candler or LED light improves visibility. Keeping the candling sessions brief helps maintain stable internal egg temperature. Practicing consistent technique lets you quickly spot any developmental problems. Candling at multiple points ensures each chick is progressing as it should.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/14.png"
     },
     {
       "id": 15,
       "title": "Why Cleanliness Matters in Incubation",
       "description": "Bacterial and fungal contamination can ruin an otherwise successful hatch. Dirty equipment or poor egg handling practices may introduce harmful microorganisms. These pathogens can multiply quickly in the warm, humid incubator environment. Regular cleaning and disinfection of the incubator, turning trays, and thermometers is vital. Mild detergents or specialized disinfectants can be used, always followed by thorough rinsing. Ensuring eggs are not visibly soiled reduces the likelihood of bacterial growth penetrating the shell. Washing hands before and after handling eggs or equipment helps minimize cross-contamination. Proper ventilation and temperature management also discourage microbial buildup. Even a single infected egg can spread contaminants to the entire batch. Maintaining strict hygiene standards greatly improves hatch outcomes by limiting disease risks.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/15.png"
     },
     {
       "id": 16,
       "title": "Choosing the Right Incubator Size",
       "description": "The size of your incubator depends on how many eggs you plan to hatch at once. Smaller, tabletop models often hold between 7 and 48 eggs, making them ideal for hobbyists. Larger cabinet incubators can accommodate hundreds of eggs, suitable for small farms or commercial operations. Overcrowding eggs can reduce airflow and humidity control, leading to uneven development. Always check the manufacturer’s specifications for the maximum recommended capacity. Keep in mind that some space should be reserved for water trays and turning mechanisms. Investing in a slightly larger incubator than you currently need can provide flexibility for future growth. However, avoid excessively large units if you only hatch a few eggs occasionally, as they can be harder to keep stable. Matching incubator size to your production goals leads to better efficiency and hatch rates.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/16.png"
     },
     {
       "id": 17,
       "title": "Best Practices for Homemade Incubators",
       "description": "Some poultry enthusiasts build their own incubators using simple materials like Styrofoam boxes, thermostats, and small fans. Proper insulation helps maintain steady temperatures, an essential aspect of homemade setups. A reliable thermostat or temperature controller is key to preventing fluctuations. Adding a small PC fan can improve air circulation for more uniform heating. Humidity trays and sponges help regulate moisture, but frequent monitoring is crucial. Candling frequently can catch potential problems early. Homemade incubators can be cost-effective but require more hands-on management. Be prepared to adjust settings more often than with commercial models. Adequate ventilation holes should be drilled to allow fresh air exchange. If carefully constructed and monitored, homemade incubators can yield comparable hatch results to store-bought units.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/17.png"
     },
     {
       "id": 18,
       "title": "Transitioning Eggs from Setter to Hatcher",
       "description": "In many commercial and advanced hobbyist setups, eggs spend the first 18 days in a setter incubator. This environment focuses on precise temperature and humidity for consistent embryo growth. On day 18, eggs are transferred to a hatcher, where turning is stopped and humidity is increased. This specialized chamber allows chicks to emerge without disturbing unhatched eggs. Keeping the hatcher clean is essential to avoid bacterial spread during the vulnerable hatching phase. Marking eggs or using separate trays can help track different breeding lines. The hatcher often has slightly different temperature settings, typically around 99°F (37.2°C). Observing the internal pip (when the chick breaks the membrane) can guide further humidity adjustments. Maintaining a dedicated hatcher helps prevent injuries to newly hatched chicks. Proper transitioning enhances both hatch rate and chick vitality.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/18.png"
     },
     {
       "id": 19,
       "title": "Detecting Fertile vs. Infertile Eggs",
       "description": "Not all collected eggs will be fertile, especially if you have low rooster-to-hen ratios. Around day seven, candling will clearly show developing veins in fertile eggs. Infertile eggs will appear clear or show only a faint shadow of the yolk. Checking eggs again on day 14 can help confirm any ambiguities. Infertile eggs left in the incubator can become breeding grounds for bacteria. Prompt removal of clear or non-viable eggs reduces contamination risk. Some hatchers opt to crack open non-developing eggs to confirm fertility issues. Seasonal changes, hen health, and rooster fertility can all affect fertilization rates. Accurately identifying fertile vs. infertile eggs helps refine your breeding program. Over time, consistent candling and record-keeping improve overall hatch success by focusing resources on viable embryos.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/19.png"
     },
     {
       "id": 20,
       "title": "Using Digital Tools to Monitor Incubation",
       "description": "Incorporating digital technology can simplify the incubation process. Electronic temperature controllers maintain precise heat levels, reducing manual adjustments. Hygrometers with remote sensors allow you to check humidity without opening the incubator. Some advanced incubators connect to smartphone apps, giving you real-time data and alerts. Digital egg turners can be programmed to rotate eggs at optimal intervals. Automated alerts for temperature or humidity deviations enable quick corrections. Candling lights with built-in cameras allow live streaming of embryonic development. Scheduling software or mobile apps help maintain turning records and track incubation milestones. While these tools can be an investment, they often pay off in improved hatch rates. Embracing technology reduces guesswork and fosters a more scientific approach to egg incubation.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/20.png"
     },
     {
       "id": 21,
       "title": "Understanding Embryo Development Stages",
       "description": "Chicken embryo development follows a predictable timeline inside the egg. By day three, the circulatory system forms, and a beating heart becomes visible upon candling. By day seven, major organs and blood vessels are well-defined. Around day 10, feathers start to form, and the beak becomes more apparent. By day 14, the chick’s skeleton is nearly complete, and it moves around more actively. By day 17, the embryo fills most of the egg, leaving a larger air cell. The chick begins to orient itself for hatching, drawing in the yolk sac for final nutrition. Internal pipping (breaking the internal membrane) typically starts around day 19. External pipping (breaking the shell) often follows soon after. Familiarity with these stages helps you identify normal vs. delayed development. Tracking embryo milestones through candling reassures you that everything is on schedule.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/21.png"
     },
     {
       "id": 22,
       "title": "Eggshell Quality and Its Impact on Incubation",
       "description": "The shell is the embryo’s first line of defense against external threats, while also allowing gas exchange. Thin or brittle shells are more prone to cracks and microbial invasion. Dietary factors, such as calcium and vitamin D levels, greatly influence shell quality. Hens under stress or in poor health may lay eggs with weaker shells. A strong shell also promotes stable humidity inside the egg by controlling moisture evaporation. Cracked eggs, even if fertile, often fail to hatch due to bacterial contamination. Regularly inspecting eggshells and removing compromised ones reduces infection risk. Proper hen nutrition and flock management ensure reliable shells for better hatch rates. Shell color variations (white, brown, tinted) do not generally affect hatchability. Emphasizing shell integrity contributes to a healthy environment for the developing chick.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/22.png"
     },
     {
       "id": 23,
       "title": "How Altitude Affects Incubation",
       "description": "At higher altitudes, the thinner air contains less oxygen, which can impact embryo metabolism. Reduced air pressure can also affect the incubator’s ability to maintain consistent humidity. Some hatchers compensate by increasing airflow or slightly adjusting temperature settings. Eggs at high elevations may benefit from slightly lower humidity levels to ensure proper moisture loss. Candling can help detect slowed development or other stress markers. Commercial incubator manufacturers often provide guidelines for high-altitude operations. Using additional ventilation might offset reduced oxygen levels. Regular calibration of instruments is crucial, as standard settings may become inaccurate at altitude. Although incubation at high elevations can be more challenging, careful monitoring yields successful results. Adaptations in equipment and technique help eggs develop properly despite the thinner atmosphere.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/23.png"
     },
     {
       "id": 24,
       "title": "The Final Days Before Hatching",
       "description": "During the last three days of incubation, the embryo prepares for hatching by absorbing the yolk sac. This transition provides vital nutrients to the chick in its first hours after emerging. The eggs should not be turned after day 18, allowing the chick to orient itself. Humidity is raised to around 65–70% to help soften the shell and facilitate pipping. Many hatchers reduce handling at this stage to avoid disturbing the delicate hatching process. The chick’s lungs begin functioning when it breaks into the air cell, known as an internal pip. An external pip is visible when a small crack appears on the eggshell surface. Chicks may take up to 24 hours to fully hatch after the first external pip. Maintaining stable temperature and humidity is crucial to prevent hatching complications. Patience during these final days often leads to a more robust hatch rate.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/24.png"
     },
     {
       "id": 25,
       "title": "The Significance of a Hatch Window",
       "description": "The hatch window refers to the period during which most chicks emerge from their shells, typically spanning 24 to 48 hours. Many factors influence the timing, including exact incubation temperature, humidity, egg size, and flock genetics. Some chicks may begin pipping as early as day 19, while others emerge closer to day 22. A uniform hatch window often indicates consistent incubator conditions. If you notice a wide range in hatching times, it may suggest temperature fluctuations or mixed egg age. Leaving chicks in the incubator until they are fully fluffed allows them to recover from the stress of hatching. Moving chicks too early can increase risk of chilling or dehydration. Carefully observing the hatch window helps refine future incubation strategies. Keeping notes on each hatch’s timing can pinpoint adjustments for even better consistency.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/25.png"
     },
     {
       "id": 26,
       "title": "Improving Hatch Rates with Proper Record-Keeping",
       "description": "Maintaining a detailed log of each incubation cycle can help you pinpoint what works and what doesn’t. Record daily temperature and humidity levels, along with the frequency and method of egg turning. Note any candling observations, such as the number of fertile eggs and signs of development progress. Keep track of any equipment adjustments or power outages that may have affected embryo growth. Mark the hatch date, the number of successful chicks, and any anomalies. Over time, this data reveals patterns and correlations between conditions and outcomes. Tweaking humidity or turning schedules based on past results can steadily improve hatch rates. Digital spreadsheets or simple notebooks are both effective methods for record-keeping. By analyzing the data, you’ll continuously refine your incubation techniques for better consistency.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/26.png"
     },
     {
       "id": 27,
       "title": "Causes of Early Embryo Mortality",
       "description": "Early embryo mortality, often between days 1 and 7, can stem from several issues. Poor egg handling or contamination can introduce bacteria that kill the developing embryo. Extreme temperature fluctuations in the incubator disrupt crucial stages of organ formation. Improper turning schedules may cause the embryo to stick to the shell membrane. Inadequate ventilation can also starve the embryo of oxygen, especially in high-density settings. Infertile eggs and genetic abnormalities are non-preventable causes of early death. Excessively high or low initial humidity can impair the formation of essential membranes. Candling at day 7 helps identify these cases so you can remove affected eggs. Monitoring and adjusting factors like temperature, humidity, and sanitation reduce early embryo loss. Identifying and addressing problems swiftly leads to a higher overall hatch rate.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/27.png"
     },
     {
       "id": 28,
       "title": "Dealing with Power Outages During Incubation",
       "description": "Power outages can jeopardize the delicate incubation process by allowing temperatures to drop. If possible, avoid opening the incubator to preserve heat during short outages. Wrapping the unit with blankets or moving it to a warmer area can help maintain warmth. Battery-powered backup systems or generators are ideal for longer disruptions. Once power is restored, verify the temperature and humidity levels before resuming normal operation. Minor fluctuations for short periods generally do not kill embryos, but extended cooling can delay development. Candling a few days later can help identify any significant impact. Planning ahead with alternative heat sources reduces stress when power failures occur. Documenting the duration of the outage in your records helps interpret any subsequent hatch issues. Quick, proactive measures often save the majority of embryos from damage.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/28.png"
     },
     {
       "id": 29,
       "title": "Understanding the 'Lockdown' Phase",
       "description": "In poultry terms, 'lockdown' typically begins on day 18 for chicken eggs. This is when turning is discontinued, allowing the embryos to position for pipping and hatching. Lockdown also involves raising humidity to help the chicks exit their shells more easily. Some incubator designs have dedicated 'lockdown' trays or compartments to prevent disturbance from turning mechanisms. Opening the incubator during lockdown is discouraged, as it can disrupt humidity levels. The phrase 'lockdown' underscores the need for minimal interference in these critical final days. It’s also a time to ensure the incubator is clean and well-ventilated. Maintaining stable conditions during lockdown reduces the risk of shrink-wrapping or other hatch complications. Careful adherence to lockdown procedures greatly influences final hatch outcomes. Patience and restraint usually result in more robust, successful hatches.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/29.png"
     },
     {
       "id": 30,
       "title": "Choosing Between Manual and Automatic Egg Turners",
       "description": "Manual turning requires physically rotating each egg multiple times a day. It’s inexpensive but can be time-consuming, and human error may lead to inconsistent turning intervals. Automatic turners rotate the eggs at preset intervals, ensuring uniform movement and reducing labor. They’re especially useful if you have work commitments or large numbers of eggs. However, automatic turners can fail mechanically, so checking their function is crucial. Some hatchers prefer manual turning to stay more engaged with the incubation process. If you opt for manual turning, marking each egg can help keep track of which side is facing up. Automatic systems can also allow more precise control of turning angles and frequency. The choice often comes down to your budget, schedule, and desired level of involvement. Both methods can be successful when combined with proper temperature and humidity management.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/30.png"
     },
     {
       "id": 31,
       "title": "Handling Hatched Chicks in the Incubator",
       "description": "Once a chick hatches, it’s common for it to remain in the incubator for several hours to dry off and regain strength. The increased humidity helps avoid dehydration while the newly emerged chick adjusts. Removing chicks too early may expose them to cooler, drier air and stress them unnecessarily. If the hatch is ongoing, opening the incubator could release moisture and disrupt other chicks in the process. Most chicks can stay in the incubator for up to 24 hours post-hatch without food or water. Once dry and alert, they can safely be moved to a brooder equipped with heat and easy access to feed. Checking for any lingering membrane or shell fragments ensures the chick won’t trip or get tangled. Proper post-hatch handling helps ensure a smooth transition to brooder life. Observing these guidelines fosters healthier, more resilient chicks.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/31.png"
     },
     {
       "id": 32,
       "title": "Managing Different Poultry Species in One Incubator",
       "description": "Incubating multiple species simultaneously can be challenging because each type of bird may require specific temperature and humidity settings. Chicken eggs typically need around 99.5°F (37.5°C), while duck or goose eggs might need slightly lower temperatures or higher humidity. The incubation period also varies: ducks take around 28 days, and geese can take up to 30 days or more. Turning schedules might differ, and certain species benefit from periodic egg cooling or misting. Staggered hatches can lead to complex logistics, as different species go into lockdown on different days. If possible, dedicate separate incubators to each species. If you must combine them, carefully research compatible requirements. Frequent candling can reveal if any species is struggling with mixed conditions. A thoughtful approach is required for best results when hatching various birds together.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/32.png"
     },
     {
       "id": 33,
       "title": "Egg Orientation: Pointy End Down or On Its Side?",
       "description": "Chicken eggs are commonly incubated with the pointy end facing down, which helps maintain the air cell at the larger, blunt end. This orientation can facilitate proper chick positioning for hatching. Some incubators use horizontal placement, particularly for automatic turners that roll eggs. In these systems, the eggs lie on their sides, and regular rolling simulates natural nesting. Both methods can yield successful hatches if turning is adequate. Horizontal placement may allow better visibility when candling, but it requires careful turning to prevent embryo adhesion. Choosing orientation often depends on incubator design and personal preference. Consistency is the key, as changing orientation mid-incubation can confuse the embryo’s positioning. Whichever orientation you pick, ensure even heat distribution and proper humidity control. Properly oriented eggs increase the odds of a smooth and timely hatch.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/33.png"
     },
     {
       "id": 34,
       "title": "Why Some Chicks Hatch Late",
       "description": "A variety of reasons can cause chicks to hatch after day 21. Slightly lower average incubation temperatures slow down embryonic development. Eggs stored too long before incubation may also result in delayed hatching. Inconsistent turning schedules or partial embryo chilling can add a day or two. Genetic factors play a role as well, with some lines naturally taking longer. High humidity, especially in the early stages, can reduce moisture loss and extend incubation. If only a few chicks hatch late, it’s usually nothing to worry about. However, consistently late hatches might signal a recurring temperature calibration issue. Checking multiple thermometers can confirm that your incubator’s readout is accurate. Understanding potential causes of late hatching helps refine your setup for future batches. Patience is often the best approach if the chicks are otherwise healthy.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/34.png"
     },
     {
       "id": 35,
       "title": "Potential Causes of Malpositioned Chicks",
       "description": "A malposition occurs when the chick fails to orient itself correctly for hatching. Common causes include inadequate turning, which may lead the embryo to stick to the shell. High or low humidity can also affect the chick’s movement and orientation. Embryo crowding in small or overloaded incubators may increase malpositions. Genetic factors and nutritional deficiencies in the parent flock sometimes contribute as well. Chicks that are upside-down or sideways often struggle to pip and may require assistance. Excessive egg shape irregularities can make it harder for the embryo to align properly. Monitoring turning systems and periodically rotating manual turners can help reduce these issues. Identifying malpositioned chicks early via candling can sometimes allow interventions. Correcting underlying causes improves outcomes for subsequent hatches and reduces chick mortality.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/35.png"
     },
     {
       "id": 36,
       "title": "Storing Hatching Eggs for Transport",
       "description": "When shipping or transporting hatching eggs, proper packaging is key to maintaining viability. Use foam inserts or padded materials to cushion eggs and prevent cracking. Keep eggs at a stable temperature during transit, avoiding extremes of heat or cold. Ideally, shipments should arrive within a few days to minimize storage time. Gentle handling reduces internal disturbances that can harm the embryo. Once received, allow the eggs to rest with the pointed end down for at least 12 hours before incubation. This resting period helps the air cell settle into the correct position. Candling the eggs before and after shipment can reveal any damage from rough handling. Transported eggs may experience slightly lower hatch rates, but careful preparation can mitigate these risks. Prompt, gentle storage ensures the embryos remain healthy for a successful incubation.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/36.png"
     },
     {
       "id": 37,
       "title": "Examining Unhatched Eggs After Incubation",
       "description": "Opening unhatched eggs post-incubation can reveal valuable information about why they didn’t hatch. First, ensure all viable chicks have hatched to avoid accidental disposal of living embryos. Carefully crack the eggs in a well-ventilated area or outdoors to reduce exposure to any foul odors. Observe developmental stage: Was the embryo early in development, partially formed, or nearly full-term? This assessment can highlight issues like temperature fluctuations or bacterial infections. A green or foul-smelling egg often indicates contamination. If eggs are infertile, you’ll see only clear fluid and an intact yolk. Documenting these findings in your records helps refine your incubation practices. Knowing what went wrong leads to targeted improvements, resulting in better hatch rates over time. Post-hatch egg examination is a valuable diagnostic tool for any serious hatcher.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/37.png"
     },
     {
       "id": 38,
       "title": "Humidity Spikes and Their Effects",
       "description": "Sudden increases in humidity can lead to issues like moisture buildup on the shell. Excess condensation may cause microbial growth, as bacteria thrive in damp conditions. Chicks can also have difficulty pipping through a shell that’s excessively soft. Overly high humidity in the final days can delay shell membrane drying, which might lead to sticky chicks. Regularly checking water trays and drains prevents unintended overfilling. Ventilation adjustments can also help release trapped moisture if readings spike. Monitoring the incubator’s hygrometer alongside a backup device ensures accurate readings. Quick intervention, like briefly opening vents or removing excess water, can mitigate damage. Maintaining steady humidity levels supports normal fluid exchange within the egg. Preventing extremes is the key to keeping embryonic development on track.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/38.png"
     },
     {
       "id": 39,
       "title": "Selecting Breeds for Reliable Hatching",
       "description": "Certain chicken breeds are known for robust fertility and hatch rates, such as Rhode Island Reds, Plymouth Rocks, and Leghorns. Heritage or dual-purpose breeds often lay medium to large eggs with high hatchability. Some ornamental or show breeds may have lower fertility due to selective breeding. Rooster-to-hen ratios should be balanced, typically around 1:8–10 for maximum fertility. Collecting fresh eggs daily and storing them properly further boosts hatch potential. Monitoring the health of breeding stock is essential, as disease or nutritional deficits can lower fertility. Experimenting with different breeds can reveal which ones thrive in your local environment. Over time, selective breeding for traits like shell quality and robust chicks can improve results. A well-managed flock producing consistently fertile eggs is the cornerstone of repeated incubation success.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/39.png"
     },
     {
       "id": 40,
       "title": "How to Integrate Newly Hatched Chicks into a Flock",
       "description": "After hatching, chicks require a warm, draft-free brooder with temperature gradients around 95°F (35°C). Gradually reduce the heat by about 5°F each week as they grow feathers. Provide fresh water in shallow containers to prevent drowning and chick starter feed formulated for rapid growth. Maintain cleanliness by regularly changing bedding and sanitizing feeding equipment. Introducing new chicks to an existing flock requires caution. Typically, wait until they are fully feathered and large enough to handle mild pecking order disputes. Providing a safe, separate area within the coop for gradual interaction helps reduce aggression. Keeping a close eye on behavior and health ensures a smooth transition. With patience and proper care, newly hatched chicks integrate successfully, revitalizing the flock with new genetics and productivity.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/40.png"
     },
     {
       "id": 41,
       "title": "Insulating Your Incubator for Extreme Climates",
       "description": "In regions with very cold winters or hot summers, insulation can help maintain stable incubator conditions. Wrapping the unit in insulating material such as Styrofoam or reflective foil can reduce heat exchange with the environment. Using a temperature controller that accounts for external fluctuations ensures more consistent internal conditions. Some hatchers place the incubator in a thermally stable room, like a basement, to shield it from external changes. Avoid placing the incubator near drafts, direct sunlight, or HVAC vents. Monitoring temperature and humidity at various times of day can reveal if additional insulation is needed. A backup heat source or cooling system may be warranted in extreme climates. Taking these precautions not only prevents large temperature swings but also reduces energy consumption. Proper insulation provides a buffer, promoting consistent, stable incubation regardless of outside weather.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/41.png"
     },
     {
       "id": 42,
       "title": "Coping with High Ambient Temperatures",
       "description": "In hot climates, an incubator can overheat easily if room temperature exceeds normal operating ranges. Air conditioning or an evaporative cooler in the incubation area can regulate ambient conditions. Ensuring good airflow around the incubator helps dissipate excess heat. Some hatchers run fans or use partial insulation to keep temperatures steady. Monitor the incubator’s built-in thermostat alongside a secondary thermometer to catch discrepancies. If incubator temperatures soar above 102°F (38.9°C) for extended periods, embryonic development may be compromised. Occasionally opening vents or using a small cooling element, like a chilled water bottle, can provide temporary relief. Reducing incubator load may also help maintain stable conditions. Planning to incubate during cooler months can yield better results in extremely hot regions. Proactive steps against overheating safeguard your developing eggs.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/42.png"
     },
     {
       "id": 43,
       "title": "Dry Incubation Method Explained",
       "description": "The dry incubation method involves maintaining lower humidity during the first 18 days, usually around 25–35%. Proponents argue that this mimics natural conditions under a broody hen in certain climates. Eggs still lose moisture, allowing proper air cell development. Observing egg weight loss or air cell size helps ensure it remains within ideal limits. On day 18, humidity is increased to around 65% for hatching. This method requires close monitoring and may not be suitable in very arid environments. Many hobbyists report higher hatch rates with dry incubation if done correctly. Critics point out that too low a humidity can shrink-wrap chicks upon hatching if not correctly managed. Trial and error, combined with candling, helps determine if the dry method works for your local conditions. It can be a viable approach when carefully controlled.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/43.png"
     },
     {
       "id": 44,
       "title": "The 'Egg Topsy' for Incubation Analysis",
       "description": "An 'egg topsy' is a post-mortem examination of unhatched eggs to understand what went wrong. It goes beyond simple candling, involving carefully opening the egg to assess organ development or detect contamination. This method can identify issues like malposition, improper air cell growth, or bacterial infection. Examining the embryonic stage at death pinpoints whether problems occurred early, mid, or late in incubation. Taking notes on yolk sac absorption, feather growth, or visible deformities can reveal genetic or environmental factors. While it can be unpleasant, a thorough egg topsy provides invaluable data for improving future hatches. Always handle potential biohazards safely and dispose of remains responsibly. Over time, these examinations can greatly refine your incubation protocols. The insights gained can help you achieve consistently better results.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/44.png"
     },
     {
       "id": 45,
       "title": "How Often Should You Clean the Incubator?",
       "description": "Cleaning frequency depends on how often you incubate and hatch eggs. After each hatch, remove debris, eggshell fragments, and fluff that can harbor bacteria. A thorough sanitizing wipe-down using mild disinfectant and warm water is crucial. It’s also wise to disinfect midway through an extended incubation if you notice any contamination or foul odors. Let all parts dry completely before reassembly to prevent mold or bacterial growth. Some components, like egg trays, can be soaked in a sanitizing solution. Filters or vents should be cleaned or replaced according to the manufacturer’s guidelines. Periodic deep cleaning, including fans and hard-to-reach areas, ensures all residues are eliminated. Regular maintenance extends the incubator’s lifespan and maintains high hatch rates. Consistency in cleanliness is a cornerstone of biosecure incubation practices.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/45.png"
     },
     {
       "id": 46,
       "title": "Choosing an Incubator Thermometer",
       "description": "Accuracy is paramount when selecting a thermometer for egg incubation. Digital models often provide quick readings and can integrate with humidity sensors. Mercury thermometers are less common due to safety concerns and disposal issues. Alcohol-based glass thermometers can still be reliable but require careful placement. A good practice is to use at least two different thermometers to cross-check readings. Probe thermometers can be positioned at egg level to capture the actual temperature around the embryos. Regularly calibrate your chosen device by comparing it to a known reference, like a medical-grade thermometer. Even a small miscalibration, such as a 1°F difference, can affect hatch timing and rates. Some incubator manufacturers include built-in sensors, but external verification is still recommended. The right thermometer ensures consistent heat, a vital ingredient for successful hatches.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/46.png"
     },
     {
       "id": 47,
       "title": "Creating a Multi-Stage Incubation Schedule",
       "description": "Multi-stage incubation involves adding new eggs to the incubator at different times, enabling continuous hatching cycles. This approach is common in large-scale operations with high production demands. Proper organization is essential, as eggs in different developmental stages have varying humidity and turning needs. Using a separate hatcher for the final days helps accommodate higher humidity levels without disrupting earlier-stage embryos. Detailed record-keeping is crucial to track each batch’s start date, projected lockdown, and hatch day. Checking that newly added eggs have enough space for proper airflow avoids overcrowding. Regular candling ensures each batch progresses without interference. Multi-stage incubation can maximize efficiency, but requires meticulous management. With the right system, you can hatch chicks consistently without interrupting the ongoing cycles.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/47.png"
     },
     {
       "id": 48,
       "title": "The Impact of Broody Hens vs. Artificial Incubation",
       "description": "Broody hens naturally provide the correct warmth, humidity, and turning for their eggs, often resulting in robust chicks. However, hens may stop brooding or neglect certain eggs, leading to inconsistent results. Artificial incubators give you greater control over temperature and humidity but require more active management. Incubators enable large-scale hatching, while a single broody hen can handle only a limited clutch. Observing a broody hen’s behavior can inform best practices for artificial systems. Some poultry keepers prefer to let nature take its course, especially for small, self-sustaining flocks. Others rely on incubators to meet production demands or breed specific lines. Both methods can be successful if well managed. Combining approaches—incubating some eggs and letting a broody hen care for others—can diversify and strengthen your flock.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/48.png"
     },
     {
       "id": 49,
       "title": "Hatching Eggs During Cold Winter Months",
       "description": "Winter incubation can be successful with adequate preparations. Place the incubator in a heated room or well-insulated area to prevent temperature drops. Drastic temperature gradients between ambient air and the incubator can lead to heat loss. Properly sealing windows and doors helps maintain a stable environment. Using a second thermometer and hygrometer can catch any hidden temperature or humidity dips. Higher energy usage is common in winter, so ensure your incubator and its heating element are in good condition. Keep in mind that eggs may cool rapidly when removed for candling, so work quickly. Monitor power supply or consider a generator if winter storms frequently cause outages. With vigilance and backup plans, winter hatching can be just as fruitful as in milder seasons.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/49.png"
     },
     {
       "id": 50,
       "title": "Handling Late Hatching or Overdue Eggs",
       "description": "Some eggs may not hatch exactly on day 21, taking up to day 23 or 24. Carefully candling overdue eggs can show if the chick is still alive. Look for slight movements or blood vessel activity near the air cell. If the chick is internally pipped but not externally pipped, it may need extra time. Avoid the temptation to assist prematurely, as this can cause injury or introduce bacteria. Confirm that humidity is still high enough to prevent shrink-wrapping. If no progress occurs after several days and no internal movement is visible, the egg is likely non-viable. In rare cases, gentle intervention is attempted, but only if you are experienced and certain the chick is stuck. Most importantly, maintain stable conditions and give the chick time. Patience often yields a healthy, albeit late, hatchling.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/50.png"
     },
     {
       "id": 51,
       "title": "Comparing Manual vs. Digital Hygrometers",
       "description": "Manual hygrometers often use a dial or gauge that can be prone to calibration drift over time. Digital hygrometers provide fast, clear readings and can log data for trend analysis. Many digital models also measure temperature, offering a two-in-one solution. However, digital devices rely on batteries, which must be checked or replaced to ensure accuracy. Regularly comparing either type to a salt test or a known standard helps maintain correct readings. Placing the hygrometer at egg level is critical to getting representative humidity data. Manual gauges may work fine for hobbyists with fewer eggs. Commercial operations often rely on digital units for tighter control and automated alerts. Whichever you choose, consistent calibration and proper placement are paramount for dependable humidity management.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/51.png"
     },
     {
       "id": 52,
       "title": "Tips for High Altitude Egg Hatching",
       "description": "At high elevations, lower air pressure and oxygen levels can complicate hatching. Many hatchers compensate by slightly reducing temperature, around 0.5–1°F lower than standard recommendations. Ventilation may need to be increased to improve oxygen flow. Close observation of air cell development through candling is vital to track moisture loss. Humidity adjustments could be necessary to ensure the air cell grows at a normal rate. Some breeders choose to gradually acclimate eggs by storing them briefly at altitude before incubation. If feasible, setting up an incubator with built-in altitude compensation features can simplify the process. Keeping meticulous notes on each batch at different times of year refines the approach. By adapting temperature, humidity, and ventilation, successful hatches are achievable even at significant elevations.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/52.png"
     },
     {
       "id": 53,
       "title": "The Importance of an Accurate Hatch Calendar",
       "description": "A hatch calendar is a straightforward yet powerful tool in egg incubation. It highlights critical milestones: when to candle, when to stop turning, and expected hatch day. Many incubators come with recommended schedules based on poultry type. Marking these dates helps you avoid missing essential tasks like raising humidity or performing final candling. Sharing the calendar with helpers or family members keeps everyone coordinated. Digital calendars or smartphone reminders can be synced to ensure timely alerts. Each new batch of eggs may have slight variations in timing due to egg age or storage conditions. Adjusting the calendar to real observations, such as early or late pipping, refines future cycles. Consistency in following a hatch calendar leads to more controlled and predictable results.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/53.png"
     },
     {
       "id": 54,
       "title": "Using Misting Techniques for Duck or Goose Eggs",
       "description": "Waterfowl eggs, such as ducks or geese, often benefit from daily or periodic misting with warm water. This simulates the natural moisture introduced when the mother returns wet from a swim. Misting can help regulate humidity and prevent overly dry conditions in the shell membrane. Most hatchers start misting around day 10 and continue until day 25 for geese or day 24 for ducks. Brief cooling periods after misting can mimic the duck leaving the nest for feeding. Candling waterfowl eggs frequently is advised to monitor proper air cell development. Ensuring the water used for misting is clean reduces contamination risks. Not all incubators require misting, especially if humidity is well-controlled, but it can significantly enhance hatching success for waterfowl. Monitoring results allows you to fine-tune the misting schedule for optimal outcomes.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/54.png"
     },
     {
       "id": 55,
       "title": "Assessing Chick Vitality Immediately After Hatching",
       "description": "A healthy, newly hatched chick will be active, peeping, and have open, bright eyes. It should be able to stand or attempt to stand within a few hours. The navel area might appear slightly moist but should not be bleeding. If chicks seem lethargic or weak, check the brooder temperature and humidity. Sometimes chicks have curled toes or splayed legs due to poor positioning or nutritional deficiencies. Providing proper floor traction and vitamins in the water can help with mild cases. Umbilical infections may appear as swelling or redness around the navel, requiring prompt attention. Taking notes on chick vigor can indicate whether incubation conditions were optimal. Most strong chicks will begin exploring feed and water within 24 hours. Observing early post-hatch behavior is a window into the overall success of your incubation process.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/55.png"
     },
     {
       "id": 56,
       "title": "Effect of Parent Flock Nutrition on Hatchability",
       "description": "The nutritional status of the parent birds directly impacts egg quality and embryo development. Diets lacking in protein, vitamins, or minerals can lead to weak shells and poor fertility. Providing a balanced ration with adequate calcium supports strong shells, while vitamins A, D, and E are crucial for healthy embryos. Breeder feeds specifically formulated for laying hens ensure they receive the necessary nutrients. Overfeeding or underfeeding can both reduce hatchability. Stress factors, such as overcrowding or poor water quality, also diminish flock health and egg viability. Supplementing with probiotics or organic minerals can improve overall laying performance. Regular monitoring of body condition and egg production helps identify dietary issues early. Investing in parent flock nutrition pays dividends in higher hatch rates and stronger chicks.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/56.png"
     },
     {
       "id": 57,
       "title": "Managing Eggshell Contamination",
       "description": "Dirty eggs are a risk factor for bacterial and fungal infection during incubation. Gently wiping away debris with a dry cloth or a slightly damp, sanitized cloth can help, but vigorous cleaning can remove the protective bloom. Commercial egg sanitizing sprays exist, but incorrect usage may push bacteria through the shell pores. Collecting eggs frequently and providing clean nesting areas reduces the amount of dirt and fecal matter on shells. Handling eggs with clean gloves or sanitized hands keeps contamination to a minimum. Checking incubator conditions also helps, as high humidity can accelerate bacterial growth if shells are contaminated. Promptly removing cracked or leaking eggs limits cross-infection risk. Balancing cleanliness with the preservation of the natural bloom is key. Taking these precautions substantially improves overall hatch outcomes.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/57.png"
     },
     {
       "id": 58,
       "title": "Spotting the 'Blood Ring' During Candling",
       "description": "A 'blood ring' is a circular blood accumulation seen through candling, indicating that the embryo began developing but died early. It often forms when the embryo stops growing between days 3 and 7. The presence of a blood ring typically means the egg is no longer viable and should be removed. Causes can include temperature spikes, bacterial contamination, or genetic issues. Sometimes, improper turning or accidental jolts also contribute. If you see a well-defined blood ring with no active veins, discard the egg to prevent contamination. Keep track of how many eggs exhibit this issue to identify potential systemic problems. By removing eggs with blood rings promptly, you maintain a healthier environment for the remaining embryos. Spotting this sign early helps you focus on the viable eggs and reduce infection risks.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/58.png"
     },
     {
       "id": 59,
       "title": "Key Differences Between Natural and Artificial Incubation",
       "description": "In natural incubation, the broody hen continuously adjusts her position, temperature, and humidity. Artificial incubators strive to replicate these conditions through mechanical or digital means. While hens may leave the nest briefly, the incubator must be monitored to avoid drops in temperature or humidity. The hen instinctively turns the eggs multiple times a day, whereas an automatic turner follows preset intervals. A hen may reject or cull weak embryos, whereas artificial systems rely on candling and manual removal. Ambient temperature and seasonal changes can affect how a hen broods but have less impact on a well-insulated incubator. Natural methods can yield hardy chicks due to slight temperature variations that strengthen the embryo. Artificial methods can hatch larger batches and allow more precise control but demand constant oversight. Both have their merits, and many hatchers use a combination of the two.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/59.png"
     },
     {
       "id": 60,
       "title": "When and How to Assist a Chick Hatching",
       "description": "Intervening in the hatching process should be a last resort. If a chick has externally pipped but cannot progress after 24 hours, it might be malpositioned or stuck in dried membranes. Gently peeling away small shell fragments can help, but too much assistance can cause bleeding. Always work in a humid area or use a damp cloth to keep membranes moist. Stop immediately if you encounter active blood vessels, as they indicate the chick isn’t ready. Rushing the process can cause internal injuries or infections. Some hatchers prefer an even more conservative approach, letting nature take its course. If assistance is successful, the chick may need extra warmth and close monitoring. Over time, you’ll develop a sense of when intervention is genuinely necessary. Compassionate, careful assistance can save a life, but it’s best to avoid routine interference.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/60.png"
     },
     {
       "id": 61,
       "title": "Storing Incubators Between Hatches",
       "description": "After cleaning and sanitizing, allowing the incubator to dry fully prevents mold or mildew growth. Disassemble removable parts like trays and turners to ensure every surface is thoroughly aired. Store in a cool, dry location away from direct sunlight or extreme temperatures. Cover the incubator with a clean cloth or plastic wrap to keep out dust. If the unit has a built-in fan, consider lightly wrapping it to prevent debris accumulation. Regularly check any stored incubator for signs of insect or rodent intrusion. Keeping a box of silica gel packets nearby can help control humidity in damp environments. Periodically running the incubator empty for a few hours can also deter mold growth. Proper off-season storage preserves the incubator’s functionality for future hatches, extending its lifespan.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/61.png"
     },
     {
       "id": 62,
       "title": "The Role of Lighting in the Incubation Room",
       "description": "Bright or fluctuating lighting typically does not affect the internal development of embryos. However, consistent lighting conditions can make it easier for you to observe the incubator’s controls and perform candling. Keeping lights too dim may increase the risk of accidental temperature adjustments. Some commercial operations use dim lighting to reduce stress on any chicks that hatch or are moved nearby. Glare can affect the accuracy of digital displays, so consider using shielded or indirect lighting. If you need to candle eggs in the room, moderate lighting can help detect cracks or abnormalities more easily. Avoid placing the incubator in direct sunlight, as it can overheat rapidly. Overall, lighting in the incubation area should prioritize functionality and safety over any direct impact on embryonic development. Maintaining a calm environment with stable lighting helps you manage the process effectively.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/62.png"
     },
     {
       "id": 63,
       "title": "Calibrating Your Incubator Sensors",
       "description": "Most incubators come with built-in temperature and humidity sensors, but these can drift out of calibration over time. A common practice is to compare readings with a trusted external thermometer and hygrometer. For temperature, use a glass or digital medical thermometer at egg level. To test hygrometer accuracy, the salt test method is straightforward: Seal a tablespoon of salt and a few drops of water with the hygrometer in a plastic bag for several hours. It should read 75% humidity in equilibrium. Adjust the incubator’s settings or sensor offsets based on these calibration checks. Repeat this process monthly or before each new hatch cycle for consistent performance. Maintaining sensor accuracy prevents hidden deviations from harming embryonic development. Calibrated instruments are the backbone of precise incubation management.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/63.png"
     },
     {
       "id": 64,
       "title": "Common Misconceptions About Egg Incubation",
       "description": "One misconception is that more humidity is always better, but excess moisture can suffocate chicks by limiting necessary air cell growth. Another myth suggests constant high temperatures speed up hatches, yet slight fluctuations beyond the recommended range can cause deformities. Some believe washing eggs thoroughly improves hatch rates, but removing the protective bloom may introduce bacteria. There’s also a notion that turning is optional, but it’s crucial to prevent embryonic adhesion. People often think that if an egg is moving when candling, it must be alive, but movement can sometimes be an illusion. Another error is assuming all chicks will hatch exactly on day 21, while in reality, a window of a few days is normal. Recognizing these misconceptions helps hatchers apply evidence-based methods for improved outcomes. Knowledge dispels myths, leading to consistent and successful hatching practices.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/64.png"
     },
     {
       "id": 65,
       "title": "Managing Broken or Cracked Eggs During Incubation",
       "description": "Accidental cracks can occur when placing or turning eggs. Minor hairline cracks can sometimes be sealed with non-toxic nail polish or candle wax, though success rates vary. Heavily damaged eggs should be removed to prevent contamination. Bacteria can enter through the crack and infect other eggs in the incubator. Candling can reveal fluid leaks or blood spots indicating severe internal damage. Keep the incubator clean if a cracked egg breaks completely, and sanitize any affected surfaces. Checking trays for rough edges or cleaning debris can prevent further cracking. If you must handle eggs frequently, wear gloves to reduce the risk of slips. Prompt attention to cracks helps maintain a healthy environment and can salvage some borderline cases. Vigilance reduces egg loss and prevents contamination issues.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/65.png"
     },
     {
       "id": 66,
       "title": "Selecting the Optimal Location for Your Incubator",
       "description": "Placing your incubator in a stable, climate-controlled room is key. Avoid basements prone to dampness or attics susceptible to extreme heat. A spot away from doors and windows reduces drafts and temperature swings. Keep the incubator off the floor to avoid cold, rising damp, and potential pests. A sturdy table or shelf ensures the incubator remains level and less likely to be bumped. Maintaining a few inches of clearance around the unit aids ventilation and prevents overheating. If the room’s temperature fluctuates wildly, consider adding supplemental heating or cooling. Check the ambient conditions at different times of day to ensure stability. A well-chosen location lessens the load on the incubator’s heating and humidity controls. Consistency in the surrounding environment often translates to smoother, more reliable hatches.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/66.png"
     },
     {
       "id": 67,
       "title": "Minimizing Stress on Developing Embryos",
       "description": "Embryos can be stressed by abrupt temperature shifts, rough handling, or bacterial contamination. To minimize risk, handle eggs gently and avoid unnecessary movement. Keep the incubator closed as much as possible, especially during critical phases like lockdown. Record daily checks quickly to limit internal climate disruption. Consistent ventilation helps reduce carbon dioxide buildup, which can stress embryos. Maintaining clean equipment cuts down on pathogenic threats that cause embryo mortality. Candling should be done in a dimly lit area to prevent sudden bright light from shocking the developing chick. Gradual changes in humidity and temperature are easier for embryos to handle than abrupt fluctuations. Monitoring your own behavior—quiet, calm, and methodical—can also reduce inadvertent jostling. By mitigating stress factors, you support stronger and healthier chicks at hatch.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/67.png"
     },
     {
       "id": 68,
       "title": "Using Hatchery Data to Improve Poultry Breeding",
       "description": "Detailed records of which eggs hatch successfully, along with lineage information, can inform breeding programs. Identifying hens and roosters with consistently high fertility and robust chicks helps refine parent stock. Tracking average hatch times, weights, and chick vitality provides insights into genetic traits. Over several generations, selecting the most successful lines enhances overall flock productivity. Data-driven breeding can also highlight potential health issues or hereditary defects. Analyzing hatch data in combination with feed usage and growth rates paints a comprehensive picture of flock performance. Some breeders share or pool data to compare results and adopt best practices. Establishing clear breeding goals—such as improved egg production, growth rate, or hardiness—guides data collection. Continuous evaluation of hatchery metrics ensures that each generation of birds is better adapted to your specific goals and environment.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/68.png"
     },
     {
       "id": 69,
       "title": "Seasonal Considerations for Incubation",
       "description": "Ambient temperature and humidity fluctuate seasonally, potentially affecting incubator performance. In humid summers, watch for excess moisture buildup, while in dry winters, you may need extra humidity trays. Springtime can bring variable temperatures that challenge incubator stability. Adjusting ventilation, adding insulation, or controlling room conditions can offset seasonal changes. Some hatchers schedule their incubations to align with natural breeding cycles, taking advantage of fresh, highly fertile eggs. Candling more frequently during transitional weather can catch early problems. Monitoring local weather forecasts helps anticipate sudden temperature shifts. Seasonal shifts also influence how quickly chicks can be moved outdoors or integrated into the flock. By planning around the seasons, you can maintain consistent conditions and optimize each hatch, year-round.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/69.png"
     },
     {
       "id": 70,
       "title": "Why Early Morning or Late Evening Checks Are Beneficial",
       "description": "Performing daily checks in the early morning or late evening can help you catch temperature or humidity issues before they escalate. Ambient temperatures are often more stable during these times, reducing sudden external changes. Checking incubators at the start or end of the day also ensures you have time to make adjustments. In busy operations, staff availability may be greater in the morning or evening, allowing for thorough inspections. Observing the incubator at consistent times provides comparable data over the entire incubation period. Candling at dusk or dawn can enhance visibility, as natural light is subdued. If a problem arises, you have the full day or overnight to monitor any correction. Regular, scheduled checks reinforce a disciplined approach to egg incubation management. This routine fosters prompt detection and resolution of developing issues.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/70.png"
     },
     {
       "id": 71,
       "title": "Recognizing Signs of Overheating",
       "description": "Overheating can be more deadly than brief cooling for developing embryos. Candling may reveal accelerated vein growth early on, followed by blood vessel regression if the temperature remains high. Chicks that hatch prematurely, often around day 19 or 20, can be a sign of chronic overheating. Embryos may show deformities or appear lethargic upon hatching. Thermometers reading above 102°F (38.9°C) for long periods put the embryos at risk. If you suspect overheating, lower the incubator temperature gradually, rather than a sudden drop. Adding a fan or opening a vent can help dissipate excess heat. Using a second thermometer at egg level can confirm if the built-in sensor is accurate. Quick intervention is vital for saving the clutch. Recognizing overheating symptoms and acting promptly improves survival rates and chick vitality.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/71.png"
     },
     {
       "id": 72,
       "title": "How Shell Membrane Thickness Affects Hatchability",
       "description": "Beneath the eggshell, multiple membranes protect the embryo from pathogens and regulate water loss. Membranes that are too thick can restrict the chick’s ability to pip. Alternatively, membranes that are too thin may risk excessive moisture loss or bacterial infiltration. Parent flock diet, particularly protein and mineral intake, influences membrane quality. Environmental stressors can also cause inconsistencies in membrane thickness. Observing how easily chicks pip and zip through the shell can offer clues about membrane health. Thin membranes may tear prematurely, causing bleeding or exposure to contamination. Some breeders use specialized candling techniques to estimate membrane translucency, though this requires practice. Balancing shell and membrane integrity is as important as controlling humidity and temperature. Prioritizing flock health and nutrition typically ensures the membranes form correctly for successful hatching.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/72.png"
     },
     {
       "id": 73,
       "title": "Preparing Chicks for Shipment After Hatching",
       "description": "Shipping newly hatched chicks requires careful handling to maintain warmth, hydration, and reduced stress. Wait until chicks are fully dry and active before packaging. Special ventilated boxes are used to ensure sufficient airflow. Bedding material, like soft paper or pads, can stabilize chicks and absorb waste during transit. In cooler weather, adding heat packs can help maintain a comfortable temperature. Ensure the chicks have access to nutrients by providing a gel or specialized feed supplement for shipping. Minimizing travel time and avoiding extreme temperature routes are crucial. Labeling the box with 'Live Birds' and 'Fragile' alerts postal workers to handle gently. Inspecting the chicks upon arrival confirms if they remained healthy in transit. Proper packing and planning minimize shipping-related losses and ensure chicks arrive in good condition.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/73.png"
     },
     {
       "id": 74,
       "title": "Combating Mold and Fungus in the Incubator",
       "description": "Warm, humid conditions in an incubator can promote mold and fungal growth. Cleaning and disinfecting all surfaces before each hatch is the first defense. Ensuring no cracks or residual egg contents remain reduces potential growth areas. Vents should be kept clear to allow airflow that discourages mold. Using distilled water in humidity trays may lower mineral buildup where microbes thrive. Periodically checking for musty odors or visible colonies helps catch problems early. Some hatchers place a natural desiccant, like activated charcoal, near the water reservoir to reduce spores. However, chemical antifungals can be risky if not used correctly. If you notice persistent contamination, identify any leaks or design flaws in the incubator that trap moisture. Consistent hygiene and moderate humidity levels typically keep molds at bay. A clean environment is fundamental for healthy embryo development.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/74.png"
     },
     {
       "id": 75,
       "title": "Why Egg Shape and Size Influence Hatchability",
       "description": "Extreme shapes, like overly elongated or very round eggs, can reduce hatch rates. Such shells may compromise the embryo’s orientation or air cell development. Very large eggs can have difficulty maintaining proper internal conditions, while too-small eggs may yield weaker chicks. Breeding flocks fed nutritionally balanced diets generally lay eggs within a desirable size range for their breed. Candling unusual eggs can reveal if the embryo is forming abnormally due to shape constraints. Some hatchers discard noticeably misshapen eggs to focus on those with higher odds of success. Keeping detailed notes on egg shape and hatch outcomes can guide breeding decisions. Over time, selecting parent birds that produce uniformly shaped eggs boosts overall hatchability. Paying attention to egg dimensions complements other best practices, ensuring a strong start for the developing chick.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/75.png"
     },
     {
       "id": 76,
       "title": "Evaluating Different Turning Patterns",
       "description": "Common turning patterns include 45-degree tilts or full rotations. Some automatic turners move eggs slowly back and forth throughout the day. Others rotate eggs completely every few hours. The main goal is to prevent the embryo from settling against one side of the shell. Consistency is more important than the specific angle of turning. Experimenting with different patterns can reveal which yields the best hatch rates for your setup. Keeping thorough notes on turning frequency and angles helps in assessing improvements. If using a manual approach, ensure eggs are turned at least three times daily, though more often is ideal. Overhandling or jolting eggs can harm delicate embryonic structures. Ultimately, an effective turning routine balances frequency, stability, and minimal disturbance. By refining your pattern, you promote uniform development and higher hatch success.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/76.png"
     },
     {
       "id": 77,
       "title": "Strategies for Large-Scale Hatcheries",
       "description": "Commercial hatcheries often employ specialized setters and hatchers designed for high-capacity output. Automating turning, humidity control, and temperature regulation reduces labor and ensures consistency. Managers analyze hatch data daily to identify patterns or pinpoint systemic errors. Biosecurity measures are more stringent, with footbaths and restricted access to critical areas. Egg grading for size, shape, and shell quality is standard practice before setting. Multiple candling checkpoints allow quick removal of infertile or contaminated eggs. Computerized systems track each batch, streamlining multi-stage incubation schedules. Power backup and climate-controlled facilities mitigate losses from outages or extreme weather. Regular calibration and equipment maintenance are paramount to handle large egg volumes. The scale of operations demands precision and protocol to achieve consistently high hatch rates. Adhering to these strategies supports profitability and healthy flock turnover.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/77.png"
     },
     {
       "id": 78,
       "title": "Introducing Chicks to a Broody Hen",
       "description": "Sometimes you can place incubator-hatched chicks under a broody hen to raise them. The hen should still be in a strong maternal phase, typically demonstrated by her staying on the nest and clucking softly. Introducing the chicks at night can help the hen accept them as her own. Gently slip the chicks under her warmth, removing any unhatched eggs if necessary. Monitor the hen’s behavior closely the next morning to ensure she’s not aggressive toward the unfamiliar chicks. If the hen pecks or rejects them, prepare a brooder as a backup solution. Once accepted, the chicks benefit from natural social bonding and guidance. Always provide a safe, enclosed space with chick-friendly feed and water. Integrating incubator-hatched chicks with a broody hen can simplify early care and produce well-socialized birds.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/78.png"
     },
     {
       "id": 79,
       "title": "Using Trials to Optimize Incubation Settings",
       "description": "Every incubator and environment is unique, so small-scale trial runs help fine-tune conditions. Testing different humidity levels, from 40% to 50% early on, can reveal which range gives the best hatch. Varying turning frequency in separate trial batches can show whether more frequent rotation improves outcomes. Maintain meticulous notes on each test, including breed details, egg age, and daily readings. After hatching, compare results across trials to see which approach yields the highest rate of healthy chicks. Continual, data-driven experimentation ensures you adapt best practices to your specific setup. Even advanced hatchers benefit from occasional trials, as seasonal or equipment changes can shift the ideal parameters. By refining techniques through controlled tests, you build a robust, personalized incubation protocol. Over time, these incremental improvements lead to consistently better hatch results.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/79.png"
     },
     {
       "id": 80,
       "title": "Candling for Air Cell Size Assessment",
       "description": "Beyond spotting embryo development, candling can track the growth of the air cell at the blunt end of the egg. A properly enlarging air cell indicates normal moisture loss. By day 7, it should be visible as a small pocket, expanding significantly by day 14. On day 18, it occupies about one-third of the egg’s interior. If the air cell is too large, it suggests low humidity levels. Conversely, a small air cell indicates excessive humidity. Adjusting moisture levels based on these observations can correct the rate of water loss. Marking the air cell outline with a pencil during candling helps track daily changes. This simple method offers a quick, practical guide to fine-tuning humidity. Monitoring air cell size ensures chicks have enough space to breathe internally before external pipping.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/80.png"
     },
     {
       "id": 81,
       "title": "Egg Washing: Pros, Cons, and Techniques",
       "description": "Washing hatching eggs is a debated practice. Proponents argue it removes bacteria from soiled shells, reducing contamination. Critics maintain that washing removes the egg’s protective bloom, potentially allowing microbes to enter. If washing is necessary, use water that is at least 20°F (about 10°C) warmer than the egg’s internal temperature to prevent drawing contaminants in. Gentle brushing or rinsing with mild sanitizer can dislodge stubborn dirt, followed by thorough drying. Avoid submerging eggs entirely, as this increases the chance of water penetration. Washed eggs may be more prone to mold or fungal growth if not handled correctly. Many hatchers opt for collecting only clean eggs or dry-scrubbing minimal debris. Ultimately, the decision to wash depends on local conditions, egg cleanliness, and your comfort with the associated risks. Weighing the pros and cons guides you to the safest approach for your flock.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/81.png"
     },
     {
       "id": 82,
       "title": "Timing the First Feed After Hatching",
       "description": "Chicks generally do not require food or water for the first 24 hours after hatching because they absorb the yolk sac. This natural nutrient reserve sustains them during the transition period. Providing feed and water too early may distract chicks from resting and drying under warmth. Many hatchers move chicks to the brooder once they are dry and walking well, placing water and chick starter feed within easy reach. Teaching chicks by gently tapping on the feed or water surface can encourage them to peck. Offering shallow waterers or marbles in deeper bowls prevents drowning. Waiting until chicks are stable before feeding ensures better digestion and reduces stress. The first feed is a milestone in helping chicks gain energy for healthy growth. Proper timing lays the groundwork for robust development.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/82.png"
     },
     {
       "id": 83,
       "title": "Detecting Dead-in-Shell Chicks",
       "description": "Sometimes embryos die late in development, referred to as ‘dead in shell.’ Candling may show no internal movement or a dislodged blood vessel network. Additionally, you might notice a distinct cloudy or dark ring around the inside of the shell. If a chick has internally pipped but not progressed for over 24 hours with no sign of life, it may have died. Gently tapping on the shell or using a faint whistling can sometimes provoke movement if the chick is alive. Causes include malposition, humidity imbalances, or genetic factors. Doing an egg topsy afterward can confirm the exact stage of death. Identifying dead-in-shell rates helps pinpoint recurring incubation problems. Timely detection and removal of deceased embryos prevent odor and bacterial contamination. Regular candling and stable conditions minimize the occurrence of these late-term losses.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/83.png"
     },
     {
       "id": 84,
       "title": "Evaluating Different Hatchery Software Options",
       "description": "Hatchery management software can automate tasks such as temperature logging, humidity control, and turning schedules. Some programs generate alerts if readings stray beyond preset thresholds. Customizable charts allow you to compare multiple incubation runs for patterns or anomalies. Integration with sensors and cameras enables remote monitoring of your incubators. Advanced packages cater to commercial operations, managing large volumes of data and scheduling multi-stage batches. Smaller-scale software or mobile apps are more budget-friendly, offering basic logging and candling prompts. Ensure the platform is user-friendly and compatible with your devices. Look for customer support, updates, and compatibility with expansions, like additional sensor modules. A well-chosen software solution streamlines record-keeping and analysis, freeing you to focus on the birds. It can be a worthy investment for serious hatchers wanting precise, data-driven outcomes.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/84.png"
     },
     {
       "id": 85,
       "title": "Preparing a Brooder for Newly Hatched Chicks",
       "description": "A brooder is a heated enclosure that keeps chicks warm and safe after hatching. Common heat sources include heat lamps, radiant panels, or hover brooders set to around 95°F (35°C) for the first week. Gradually decrease the temperature by 5°F each week as feathers develop. Use absorbent bedding like pine shavings, and change it regularly to maintain hygiene. Provide unlimited access to fresh, clean water and a high-quality chick starter feed. Feeder and waterer design should accommodate the number of chicks without crowding. Observing chick behavior—spreading out evenly or piling under the heat—helps you fine-tune temperature. Drafts can stress chicks, so ensure good insulation and block any gaps. A properly set up brooder supports healthy growth and reduces mortality in the critical early weeks.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/85.png"
     },
     {
       "id": 86,
       "title": "Testing New Incubator Models",
       "description": "When trying a new incubator, run a test batch or even a 'dry run' without eggs to see if temperature and humidity remain stable. Inspect the turning mechanism for consistent operation and check for any hot or cold spots using multiple thermometers. If the incubator has a digital display, confirm its readings against a reliable external sensor. Practice adjusting vents and humidity trays before introducing valuable eggs. Once comfortable with its quirks, set a small batch of eggs to further gauge performance. Compare hatch rates to those achieved with your previous model, noting any improvements or challenges. Keep a record of all settings and adjustments, refining them with each cycle. By gradually testing a new model, you minimize potential losses and quickly develop reliable, egg-specific protocols.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/86.png"
     },
     {
       "id": 87,
       "title": "Candling to Estimate Hatch Timing",
       "description": "Experienced hatchers can estimate how many days remain until hatching by analyzing chick development under candling. By day 14, the embryo occupies over half the egg, and by day 18, much of the interior is dark except for the air cell. Observing the first internal pip around day 19 indicates hatching will likely commence within 24 hours. Some breeders mark developmental milestones on the shell with a pencil to track progress. Additionally, noting changes in chick movement or the shape of the air cell can offer predictive clues. While not foolproof, these observations help plan for lockdown or address any last-minute issues. Over time, you’ll refine your ability to predict hatch day by candling. Accurate timing ensures you’re prepared for the critical final days, improving the chances of a successful hatch.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/87.png"
     },
     {
       "id": 88,
       "title": "Common Reasons for Clear Eggs at Day 7",
       "description": "If an egg appears clear upon candling at day 7, it’s likely infertile or experienced early embryo death. Infertility can stem from a lack of rooster involvement, poor mating, or low sperm viability. Overcrowded flocks, stress, or poor nutrition can diminish fertility rates. Eggs stored too long or at improper temperatures may fail to develop once incubated. Inadequate temperature control in the first few days can also halt embryonic growth. Checking more than once can confirm that there’s truly no development. Removing clear eggs prevents contamination and focuses resources on viable ones. Note the quantity of clear eggs to evaluate your breeding program or incubation conditions. Understanding these causes allows you to adjust flock management or incubation practices to improve future success.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/88.png"
     },
     {
       "id": 89,
       "title": "Optimizing Crossbreeding Programs for Hatchability",
       "description": "Crossbreeding can introduce hybrid vigor, often improving egg production and chick survivability. However, careful selection of parent lines is crucial to maintain strong fertility. Keep track of hatch rates for each cross to identify which combinations yield consistent results. If certain crosses produce a high rate of malformed or weak chicks, consider discontinuing them. Also note traits such as egg size and shell quality, as these affect overall hatchability. Multiple generations of selective crossbreeding can stabilize desirable traits. Emphasizing robust roosters ensures adequate fertilization across the flock. Combining different breed attributes, like productivity and hardiness, can result in a well-rounded flock. A structured approach to crossbreeding maximizes genetic diversity while preserving key performance metrics. This method benefits both small-scale enthusiasts and commercial operations seeking resilience and efficiency.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/89.png"
     },
     {
       "id": 90,
       "title": "Creating a Humidity Gradient for Difficult Eggs",
       "description": "Some incubators allow creating zones with slightly different humidity levels to accommodate varied egg types. Placing water trays or sponges on one side of the incubator can produce a small gradient. This method lets eggs that might need higher moisture reside closer to the water source. Conversely, eggs prone to excess fluid retention can be placed further away. Monitoring air cell size and candling helps you move eggs between zones if needed. Commercial hatcheries sometimes use multi-compartment machines for this purpose. It’s an advanced tactic requiring frequent checks to prevent imbalances. A humidity gradient can be useful for mixed-species hatching or eggs with known shell anomalies. While it adds complexity, this approach can save problematic batches that don’t thrive under uniform conditions. Experimentation and close observation are key to making gradient setups effective.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/90.png"
     },
     {
       "id": 91,
       "title": "Signs of Successful Internal Pipping",
       "description": "Internal pipping occurs when the chick breaks through the membrane into the air cell, a critical prelude to external pipping. Candling at this stage often reveals a distinct silhouette of the beak inside the air cell. You might hear faint peeping or clicking sounds if the egg is near your ear. The embryo’s movements may appear more urgent, with rhythmic twitching as it breathes air. Internal pipping usually occurs around day 19 or 20, but can vary by breed and temperature conditions. Once internally pipped, chicks generally externally pip within 12–24 hours. If more time passes without further progress, humidity or malposition issues might be to blame. Observing these subtle signals helps you decide when to raise humidity or prepare for lockdown. Recognizing internal pipping is a key indicator that hatching is imminent and on track.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/91.png"
     },
     {
       "id": 92,
       "title": "Why Some Chicks Hatch Without Pipping Sounds",
       "description": "While peeping is common during the hatching process, not all chicks are vocal before emerging. Some embryos may save their energy and only peep sporadically. It can also depend on breed temperament or the thickness of the shell. Chicks that hatch quietly may do so rapidly, minimizing the time between internal and external pipping. If you don’t hear peeping, monitor for visual cues like shell cracks and movement. Some breeders gently tap on the shell or talk softly to prompt a response, but this is optional. As long as internal pipping and normal progress are observed, silence doesn’t necessarily indicate a problem. Each chick has its own pace and style of entering the world. Observing multiple signals—candling, membrane visibility, and shell cracks—provides a more complete picture than relying on sound alone.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/92.png"
     },
     {
       "id": 93,
       "title": "Protecting Incubators from Power Surges",
       "description": "Power surges can damage the incubator’s electronics or disrupt temperature settings. A surge protector or an uninterruptible power supply (UPS) can shield your equipment. Ensure the UPS is rated for the wattage your incubator draws, and test it regularly. Installing a stable voltage regulator may also help if your area experiences frequent fluctuations. Regularly inspect cords and plugs for damage or fraying. Lightning strikes are another risk, so during severe storms, consider temporarily running the incubator on a generator. Document any surge-related incidents in your incubation records to identify possible correlations with hatch failures. By safeguarding your incubator’s power supply, you maintain consistent environmental conditions. Investing in protective measures pays off by preventing costly equipment damage and lost embryos.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/93.png"
     },
     {
       "id": 94,
       "title": "Using Ozone or UV Sterilization in Incubation",
       "description": "Some hatchers use ozone generators or UV lamps to reduce bacterial and fungal loads in incubation areas. Ozone can be effective but must be carefully managed, as high levels are harmful to humans and chicks. UV sterilization units can disinfect air and surfaces without chemical residues. However, direct UV exposure may degrade plastics or incubator materials over time. Running these devices briefly between hatches, rather than continuously, balances effectiveness with safety. Always follow manufacturer guidelines regarding room size, exposure time, and protective measures. Vent the area thoroughly afterward to clear remaining ozone or ensure no UV reflection remains. While these technologies can enhance biosecurity, conventional cleaning and proper humidity control remain fundamental. Integrating ozone or UV sterilization can bolster your overall sanitation strategy when used responsibly.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/94.png"
     },
     {
       "id": 95,
       "title": "How Shell Porosity Influences Gas Exchange",
       "description": "Shells have thousands of microscopic pores allowing oxygen in and carbon dioxide out. Varying porosity affects how quickly water vapor exits the egg. Highly porous shells can lose moisture faster, while less porous shells might retain it. This impacts the correct humidity range needed for optimal development. During candling, you might see differences in air cell size correlating with shell density. Some strains of chickens naturally produce more porous shells, requiring slight adjustments in incubation parameters. Checking weight loss or air cell growth can guide humidity tweaks. Overly porous shells can be prone to bacterial infiltration, underscoring the importance of sanitation. Tailoring your approach to the shell porosity of your flock can improve hatch rates. Understanding gas exchange dynamics is another step toward mastering controlled incubation conditions.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/95.png"
     },
     {
       "id": 96,
       "title": "Transporting Chicks Immediately After Hatching",
       "description": "If chicks need to be relocated soon after hatching—such as moving to a different brooder facility—planning is crucial. Allow them a few hours to dry and gain strength in the incubator. Use ventilated, warm containers lined with soft, absorbent material for transport. Maintain temperature by placing a heat pack or using a heated vehicle interior. Minimize travel time and vibration to reduce stress. Ensure the chicks aren’t overcrowded, as suffocation can occur during bumpy rides. Avoid direct sunlight on the container, which can quickly overheat the chicks. Upon arrival, place them into a pre-warmed brooder with immediate access to water and feed. Checking each chick for signs of dehydration or injury helps address problems quickly. Proper transport techniques reduce mortality and set chicks up for a healthy start.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/96.png"
     },
     {
       "id": 97,
       "title": "Regular Maintenance for Incubator Longevity",
       "description": "Prolonging the life of your incubator involves periodic checks and part replacements. Fans may need cleaning or lubrication to maintain airflow efficiency. Seals, gaskets, and door hinges should be inspected for wear that could cause heat or moisture leaks. Thermostats and sensors can drift, so routine calibration ensures accuracy. Replace cracked or warped trays that might cause uneven heating. Cleaning out dust from electronic components reduces overheating risks. Keep a log of maintenance tasks and part replacements for reference. If the incubator is under warranty, follow the manufacturer’s recommended schedule. Proper storage during off-seasons also contributes to longevity. These proactive measures not only preserve your investment but also keep hatch rates consistently high. A well-maintained incubator remains a reliable tool in your poultry-raising endeavors.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/97.png"
     },
     {
       "id": 98,
       "title": "Balancing Multiple Batches in One Incubator",
       "description": "When running two or more batches of eggs at once, you must carefully monitor each group’s progress. Label trays or use dividers to avoid mixing eggs from different start dates. Some hatchers stagger lockdowns by moving the older batch to a dedicated hatcher. Maintaining uniform temperature and humidity can be more challenging if the batches have different needs. Thorough record-keeping, including each group’s set date and lockdown period, prevents confusion. If you only have one incubator, coordinate so that new eggs enter after the first batch hatches, ensuring consistent turning and humidity. Candling each batch separately avoids mix-ups when discarding non-viable eggs. Patience and organization are critical to preventing cross-contamination or mismanagement. Properly balanced multi-batch operations can maximize productivity without compromising hatch rates.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/98.png"
     },
     {
       "id": 99,
       "title": "When to Cull Weak or Deformed Chicks",
       "description": "Despite best efforts, some chicks may hatch with severe deformities or fail to thrive. Conditions like twisted necks, serious leg abnormalities, or extreme lethargy often indicate underlying genetic or developmental issues. Making the decision to cull is difficult but can prevent prolonged suffering. If you are unsure, consult an experienced poultry veterinarian or mentor for guidance. Small issues like mildly curled toes may respond to splints or vitamins, so careful assessment is needed. Keeping severely compromised chicks in the flock can lead to future breeding complications. Cull promptly and humanely to minimize stress on the chick. Documenting frequent deformities helps pinpoint whether genetics, incubation errors, or nutrition is at fault. Responsible flock management sometimes requires tough choices for overall flock health.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/99.png"
     },
     {
       "id": 100,
       "title": "Assessing Incubation Results and Planning for Future Success",
       "description": "After each hatch, evaluate the percentage of fertile eggs, early embryonic deaths, and late-term fatalities. Compare these rates with prior cycles to see if conditions have improved or declined. Review detailed logs for temperature, humidity, turning, and candling observations. Identifying recurring problems—like consistent over- or under-humidity—guides targeted corrections. Discussing results with other breeders or online communities can yield fresh insights and solutions. Maintain a feedback loop between flock management and incubation, ensuring both sides work toward stronger hatches. Planning breed pairings and egg collection strategies around proven successes refines future hatching endeavors. Applying lessons learned steadily enhances technique, leading to healthier chicks and higher yields. Each batch is an opportunity to grow your expertise, ensuring long-term success in poultry incubation.",
-      "image": "assets/images/image1.png"
+      "image": "assets/images/100.png"
     }
   ]
