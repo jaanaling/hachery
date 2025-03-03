@@ -1,4 +1,6 @@
 import 'package:advertising_id/advertising_id.dart';
+import 'package:chicken_hatchery/src/core/utils/app_icon.dart';
+import 'package:chicken_hatchery/src/core/utils/size_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
@@ -23,7 +25,7 @@ class _SplashScreenState extends State<SplashScreen> {
     await Future.delayed(const Duration(milliseconds: 1000));
 
     final adId = await AdvertisingId.id(true);
-    context.go(RouteValue.home.path);
+    // context.go(RouteValue.home.path);
   }
 
   @override
@@ -42,7 +44,7 @@ class _SplashScreenState extends State<SplashScreen> {
             decoration: BoxDecoration(
               image: DecorationImage(
                 image: AssetImage(
-                  IconProvider.splash.buildImageUrl(),
+                  IconProvider.background.buildImageUrl(),
                 ),
                 fit: BoxFit.cover,
               ),
@@ -50,12 +52,18 @@ class _SplashScreenState extends State<SplashScreen> {
           ),
         ),
         Positioned(
+          bottom: 0,
+          child: AppIcon(
+            asset: IconProvider.logo.buildImageUrl(),
+            width: getWidth(context, percent: 1),
+            fit: BoxFit.fitWidth,
+          ),
+        ),
+        Positioned(
           bottom: height * 0.036 + MediaQuery.of(context).padding.bottom,
-          child: SizedBox(
-            height: height * 0.036,
-            child: CircularProgressIndicator(
-              backgroundColor: Colors.white,
-            ),
+          child: const CircularProgressIndicator(
+            backgroundColor: Color(0xfff4dfa7),
+            color: Color(0xFF650E24),
           ),
         ),
       ],

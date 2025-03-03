@@ -1,5 +1,6 @@
 enum IconProvider {
-  splash(imageName: 'splash.png'),
+  background(imageName: 'background.webp'),
+  logo(imageName: 'logo.webp'),
   icon(imageName: 'icon.png'),
   d1(imageName: 'd1.png'),
   d2(imageName: 'd2.png'),

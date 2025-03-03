@@ -11,7 +11,7 @@ class Repository {
   Future<List<User>> load() {
     return JsonLoader.loadData<User>(
       user,
-      'assets/json/$user.json',
+      'images/json/$user.json',
       (json) => User.fromMap(json),
     );
   }
@@ -19,7 +19,7 @@ class Repository {
   Future<List<Articles>> loadArticles() {
     return JsonLoader.loadData<Articles>(
       articles,
-      'assets/json/$articles.json',
+      'images/json/$articles.json',
       (json) => Articles.fromMap(json),
     );
   }

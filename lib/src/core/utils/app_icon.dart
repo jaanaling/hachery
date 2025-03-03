@@ -42,7 +42,7 @@ class AppIcon extends StatelessWidget {
                   : null,
             ),
           )
-        : asset.contains("assets")
+        : asset.contains("images")
             ? Image.asset(
                 asset,
                 width: width,
