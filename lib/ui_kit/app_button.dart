@@ -1,9 +1,7 @@
 import 'package:chicken_hatchery/src/core/utils/size_utils.dart';
+import 'package:chicken_hatchery/ui_kit/animated_button.dart';
 import 'package:chicken_hatchery/ui_kit/app_container.dart';
 import 'package:flutter/material.dart';
-import 'package:chicken_hatchery/src/core/utils/icon_provider.dart';
-import 'package:chicken_hatchery/ui_kit/animated_button.dart';
-import 'package:flutter/cupertino.dart';
 
 class AppButton extends StatelessWidget {
   final VoidCallback? onPressed;

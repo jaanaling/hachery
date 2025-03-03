@@ -5,17 +5,20 @@ enum RouteValue {
   home(
     path: '/home',
   ),
-  calendar(
-    path: 'calendar',
+  statistic(
+    path: 'statistic',
   ),
-  info(
-    path: 'info',
+  monitoring(
+    path: 'monitoring',
   ),
-  task(
-    path: 'task',
+  add(
+    path: 'add',
   ),
-    pie(
-    path: 'pie',
+  articles(
+    path: 'articles',
+  ),
+  article(
+    path: 'article',
   ),
   unknown(
     path: '',

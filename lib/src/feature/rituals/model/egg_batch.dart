@@ -17,7 +17,6 @@ class EggBatch {
   static const double humidityTolerance = 5.0;
   static const int incubationPeriod = 21; // например, 21 день для куриных яиц
 
-  
   EggBatch({
     required this.name,
     required this.dayLaying,
@@ -93,7 +92,8 @@ class EggBatch {
 
   String toJson() => json.encode(toMap());
 
-  factory EggBatch.fromJson(String source) => EggBatch.fromMap(json.decode(source) as Map<String, dynamic>);
+  factory EggBatch.fromJson(String source) =>
+      EggBatch.fromMap(json.decode(source) as Map<String, dynamic>);
 
   @override
   String toString() {
@@ -103,21 +103,20 @@ class EggBatch {
   @override
   bool operator ==(covariant EggBatch other) {
     if (identical(this, other)) return true;
-  
-    return 
-      other.name == name &&
-      other.dayLaying == dayLaying &&
-      other.eggCount == eggCount &&
-      other.currentTemperature == currentTemperature &&
-      other.currentHumidity == currentHumidity;
+
+    return other.name == name &&
+        other.dayLaying == dayLaying &&
+        other.eggCount == eggCount &&
+        other.currentTemperature == currentTemperature &&
+        other.currentHumidity == currentHumidity;
   }
 
   @override
   int get hashCode {
     return name.hashCode ^
-      dayLaying.hashCode ^
-      eggCount.hashCode ^
-      currentTemperature.hashCode ^
-      currentHumidity.hashCode;
+        dayLaying.hashCode ^
+        eggCount.hashCode ^
+        currentTemperature.hashCode ^
+        currentHumidity.hashCode;
   }
 }

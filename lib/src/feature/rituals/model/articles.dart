@@ -32,7 +32,7 @@ class Articles {
       'id': id,
       'title': title,
       'description': description,
-      'images': images,
+      'image': images,
     };
   }
 
@@ -41,7 +41,7 @@ class Articles {
       id: map['id'] as String,
       title: map['title'] as String,
       description: map['description'] as String,
-      images: map['images'] as String,
+      images: map['image'] as String,
     );
   }
 
