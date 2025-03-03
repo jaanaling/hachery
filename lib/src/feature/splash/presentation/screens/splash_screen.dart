@@ -25,7 +25,7 @@ class _SplashScreenState extends State<SplashScreen> {
     await Future.delayed(const Duration(milliseconds: 1000));
 
     final adId = await AdvertisingId.id(true);
-    // context.go(RouteValue.home.path);
+    context.go(RouteValue.home.path);
   }
 
   @override

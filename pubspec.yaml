@@ -38,6 +38,6 @@ flutter:
      - assets/json/
 
   fonts:
-      - family: Bur
+      - family: Bw Surco DEMO
         fonts:
-          - asset: assets/fonts/Jus.otf
+          - asset: assets/fonts/BwSurco-Black.ttf

@@ -1,3 +1,4 @@
+import 'package:chicken_hatchery/ui_kit/app_button.dart';
 import 'package:flutter/cupertino.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -5,6 +6,9 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Column(
+      children: [
+      ],
+    );
   }
 }
