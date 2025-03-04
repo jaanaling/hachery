@@ -3,6 +3,13 @@ enum IconProvider {
   logo(imageName: 'logo.webp'),
   icon(imageName: 'icon.png'),
   greenButton(imageName: 'green_button.png'),
+  back(imageName: 'back.png'),
+  plus(imageName: 'plus.png'),
+  minus(imageName: 'minus.png'),
+  egg(imageName: 'egg.png'),
+  temp(imageName: 'temp.png'),
+  error(imageName: 'error.png'),
+  water(imageName: 'water.png'),
   unknown(imageName: '');
 
   const IconProvider({
